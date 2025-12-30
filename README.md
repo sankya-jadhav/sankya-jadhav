@@ -43,9 +43,10 @@ I am a **BCA Student** passionate about uncovering insights from data. I am curr
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sankya-jadhav&show_icons=true&theme=tokyonight" alt="Sanket's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankya-jadhav&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sankya-jadhav&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sankya-jadhav&layout=compact&theme=tokyonight" height="150"/>
 </p>
+
 
 ---
 
