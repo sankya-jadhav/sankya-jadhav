@@ -1,57 +1,67 @@
 # Hi there, I'm Sanket Jadhav! 👋
 
-### 📊 Data Analyst | 🤖 Aspiring Data Scientist
+### 📊 Data Science Intern @ Innomatics Research Labs | 🤖 MCA Student
 
-I am a **BCA Student** passionate about uncovering insights from data. I am currently transitioning from web development to **Data Science**, focusing on Machine Learning, Statistical Analysis, and Python automation.
+I am a **First Year MCA Student** and **Data Science Intern** passionate about transforming raw data into meaningful stories. I've transitioned from a BCA background into the world of **Machine Learning** and **Statistical Analysis**, focusing on building scalable data solutions.
 
-- 🔭 I’m currently working on **Exploratory Data Analysis (EDA)** projects.
-- 🌱 I’m currently learning **Machine Learning algorithms** and **Advanced SQL**.
-- 🥅 Goals: To build predictive models and solve real-world business problems using data.
+- 🔭 **Current Internship:** Working on Real-world Data Science projects at **Innomatics Research Labs**.
+- 🌱 **Learning Path:** Deep-diving into **Advanced Machine Learning** and **Predictive Modeling**.
+- ✍️ **Writing:** I share my Python insights on **Medium** to help others learn.
+- 🥅 **Goals:** Solving complex business problems through data-driven automation.
 
 ---
 
-### 🧠 Data Science & Analytics Stack
+### 🧠 My Tech Stack
 
 **Languages & Databases:**
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
-**Libraries & Tools:**
+**Data Science & Tools:**
 <p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
 ---
 
-### 📂 Data & Development Projects
+### 📂 Featured Projects
 
-| Project | Domain | Description |
+| Project | Category | Key Highlights |
 | :--- | :--- | :--- |
-| **[Task-1](https://github.com/sankya-jadhav/Task-1)** | **Data Analysis** | Exploratory Data Analysis (EDA) using Python and Jupyter Notebooks to uncover trends. |
-| **[Library_Management](https://github.com/sankya-jadhav/Library_Management)** | **System Design** | A backend-focused system demonstrating logic for data handling and record management. |
-| **[html-portfolio](https://github.com/sankya-jadhav/html-portfolio)** | **Web Dev** | My personal digital resume and project showcase. |
+| **[IMDb Movie Analysis](https://github.com/sankya-jadhav)** | Visualization | Created a Power BI dashboard to analyze movie trends and performance. |
+| **[Library Data Filter](https://github.com/sankya-jadhav/Library_Management)** | Web/Data | Built using Django/Flask to filter Kaggle datasets for library management. |
+| **[ATM Simulation](https://github.com/sankya-jadhav)** | Python | A logic-heavy Python project simulating real-world banking transactions. |
+| **[Student Performance](https://github.com/sankya-jadhav)** | Analytics | Excel dashboard visualizing student academic growth and metrics. |
+
+---
+
+### 🏆 Education & Certifications
+* 🎓 **Master of Computer Applications (MCA)** - First Year
+* 🎓 **Bachelor of Computer Applications (BCA)** - Graduate
+* 📜 **IBM AI Foundation** Certified
+* 📜 **IBM AI and Cloud** Certified
 
 ---
 
 ### 📈 GitHub Stats
-
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sankya-jadhav&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sankya-jadhav&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
-
 ---
 
-### 📫 Let's Connect
+### 📫 Connect with Me
 <p align="left">
- <a href="https://www.linkedin.com/in/sanketjadhav02/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
- <a href="https://github.com/sankya-jadhav" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+ <a href="https://www.linkedin.com/in/sanketjadhav02/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="https://github.com/sankya-jadhav" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+ <a href="https://medium.com/@sanket-jadhav" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
