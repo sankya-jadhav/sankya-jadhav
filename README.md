@@ -32,25 +32,6 @@ I am a **First Year MCA Student** and **Data Science Intern** passionate about t
 
 ---
 
-### 📂 Featured Projects
-
-| Project | Category | Key Highlights |
-| :--- | :--- | :--- |
-| **[IMDb Movie Analysis](https://github.com/sankya-jadhav)** | Visualization | Created a Power BI dashboard to analyze movie trends and performance. |
-| **[Library Data Filter](https://github.com/sankya-jadhav/Library_Management)** | Web/Data | Built using Django/Flask to filter Kaggle datasets for library management. |
-| **[ATM Simulation](https://github.com/sankya-jadhav)** | Python | A logic-heavy Python project simulating real-world banking transactions. |
-| **[Student Performance](https://github.com/sankya-jadhav)** | Analytics | Excel dashboard visualizing student academic growth and metrics. |
-
----
-
-### 🏆 Education & Certifications
-* 🎓 **Master of Computer Applications (MCA)** - First Year
-* 🎓 **Bachelor of Computer Applications (BCA)** - Graduate
-* 📜 **IBM AI Foundation** Certified
-* 📜 **IBM AI and Cloud** Certified
-
----
-
 ### 📈 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sankya-jadhav&show_icons=true&theme=tokyonight" height="150"/>
