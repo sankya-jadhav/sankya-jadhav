@@ -1,6 +1,6 @@
 # Hi there, I'm Sanket Jadhav! 👋
 
-### 📊 Data Science Intern @ Innomatics Research Labs | 🤖 MCA Student
+### 📊 Data Science Intern @Innomatics Research Labs | 🤖 MCA Student
 
 I am a **First Year MCA Student** and **Data Science Intern** passionate about transforming raw data into meaningful stories. I've transitioned from a BCA background into the world of **Machine Learning** and **Statistical Analysis**, focusing on building scalable data solutions.
 
