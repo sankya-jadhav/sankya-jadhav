@@ -15,4 +15,5 @@ Data Science / MCA student. Recently completed a Data Science & Generative AI in
 
 **Portfolio:** [sankya-jadhav.github.io/Portfolio](https://sankya-jadhav.github.io/Portfolio/)  
 **Writing:** [Medium](https://medium.com/@sanket-jadhav)  
-**Connect:** [LinkedIn](https://www.linkedin.com/in/sanketjadhav02/) · [LeetCode](https://leetcode.com/u/sankya_jadhav/) · [HackerRank](https://www.hackerrank.com/profile/sanketj0213)
+**Connect:** [LinkedIn](https://www.linkedin.com/in/sanketjadhav02/) · [LeetCode](https://leetcode.com/u/sankya_jadhav/) · [HackerRank](https://www.hackerrank.com/profile/sanketj0213) · [Email](sanketj0213@gmail.com)
+
